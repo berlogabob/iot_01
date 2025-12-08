@@ -1,0 +1,16 @@
+/home/berloga/Nextcloud/BiStore/iot_01/build/linux/x64/debug/bundle/iot_01
+/home/berloga/Nextcloud/BiStore/iot_01/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/berloga/Nextcloud/BiStore/iot_01/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/berloga/Nextcloud/BiStore/iot_01/build/linux/x64/debug/bundle/lib/native_assets.json
+/home/berloga/Nextcloud/BiStore/iot_01/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/berloga/Nextcloud/BiStore/iot_01/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/berloga/Nextcloud/BiStore/iot_01/build/linux/x64/debug/bundle/data/flutter_assets/shaders/stretch_effect.frag
+/home/berloga/Nextcloud/BiStore/iot_01/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/berloga/Nextcloud/BiStore/iot_01/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/berloga/Nextcloud/BiStore/iot_01/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin.json
+/home/berloga/Nextcloud/BiStore/iot_01/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/berloga/Nextcloud/BiStore/iot_01/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/berloga/Nextcloud/BiStore/iot_01/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/berloga/Nextcloud/BiStore/iot_01/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/berloga/Nextcloud/BiStore/iot_01/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/berloga/Nextcloud/BiStore/iot_01/build/linux/x64/debug/bundle/data/flutter_assets/version.json

@@ -1,0 +1,1 @@
+ /home/berloga/Nextcloud/BiStore/iot_01/.dart_tool/flutter_build/b10f7797cc548b72567ef9bd801c8b9e/native_assets.json: 

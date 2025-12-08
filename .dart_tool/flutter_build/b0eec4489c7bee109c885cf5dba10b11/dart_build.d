@@ -1,0 +1,1 @@
+ /home/berloga/Nextcloud/BiStore/iot_01/.dart_tool/flutter_build/b0eec4489c7bee109c885cf5dba10b11/dart_build_result.json: 
